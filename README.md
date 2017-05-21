@@ -9,6 +9,7 @@ This [Gulp](http://gulpjs.com/) build environment was created to make scaffoldin
 ## Before Installation
 Before installation ensure you have the following components installed on your system:
 
+- [Elm](http://elm-lang.org/)
 - [Node + NPM](https://nodejs.org/en/)
 - [Bower CLI](https://bower.io/)
 - [Gulp](http://gulpjs.com/)
