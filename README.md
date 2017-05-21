@@ -18,7 +18,7 @@ Please stop and install these components correctly before continuing.
 ## Installation
 Git clone the generator and run:
 ```
-bower init
+bower install
 ```
 Follow the subsequent prompt, next run:
 ```
